@@ -1,0 +1,36 @@
+
+#headert{
+    opacity: 100% !important;
+    color:aliceblue
+}
+.small{
+    background-color: rgba(2, 2, 41, 0.13)
+}
+a{
+    color: #fff!important;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.round_img{
+    border-radius: 6px;
+}
+
+.modal-dialog.modal-fullscreen {
+    min-width: 100%;
+    margin: 0;
+  }
+  
+  .modal-dialog.modal-fullscreen .modal-content {
+    min-height: 100vh;
+  }
+  
+  /* Optional: Adjust modal header and close button style */
+  .modal-dialog.modal-fullscreen .modal-header {
+    background-color: #f1f1f1;
+  }
+  
+  .modal-dialog.modal-fullscreen .modal-header .close {
+    color: #000;
+  }
